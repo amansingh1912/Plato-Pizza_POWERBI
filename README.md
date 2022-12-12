@@ -10,7 +10,7 @@
 * I got the excel file or dataset from one of the Data Challenges organized, where details were given regarding pizzas, orders, orderslist, etc.
 * There were several files in the dataset for analysis.
 
-### Requirements and about the challenge:
+### Requirements and about the analysis:
 For this challenge, I am playing role of a BI consultant where the task is to build a single-page dashboard to help improve the restaurant's operations.
 
 ## Tools Used: , MYSQL, Power BI, Figma, Logomakr.com
