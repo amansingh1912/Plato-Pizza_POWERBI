@@ -1,4 +1,4 @@
-# Plato-Pizza Analysis 
+# Pizza Sales Analysis 
 
 ### [Dashboard](https://lnkd.in/dGJjm5iJ)
 
