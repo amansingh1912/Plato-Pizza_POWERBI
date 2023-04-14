@@ -1,6 +1,6 @@
 # Pizza Sales Analysis 
 
-### [Dashboard](https://lnkd.in/dGJjm5iJ)
+### [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTk4MTI4Y2MtMjk3OC00MjQxLTkzOTktYTA4MDdhZGRhODhiIiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9&pageName=ReportSection)
 
 ![pizza](https://user-images.githubusercontent.com/72240938/207145175-6fe666d8-9611-4089-80c3-d8d9be392ec5.jpg)
 
